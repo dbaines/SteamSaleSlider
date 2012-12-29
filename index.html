@@ -29,8 +29,19 @@
 			<section id="yesterdays_deals" class="deal_nav"></section>
 		</div>
 
+		<div class="wrapper">
+			<em id="toggle3d">3D?</em>
+		</div>
+
 		<script src="js/jquery.js"></script>
 		<script src="js/jquery.hoverIntent.min.js"></script>
 		<script src="js/slider.js"></script>
+
+		<script>
+			// this isn't part of the slider so I've left it outside of slider.js
+			$("#toggle3d").click(function(){
+				$("#wrapper").toggleClass("out3d");
+			});
+		</script>
 	</body>
 </html>

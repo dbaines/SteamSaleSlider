@@ -147,8 +147,9 @@ a {
 
 }
 
-/* 3D Outward
-.wrapper {
+/* 3D Outward */
+#toggle3d {float: right; cursor: pointer;}
+.wrapper.out3d {
 	-webkit-perspective: 1600px;
 	-moz-perspective: 1600px;
 	perspective: 1600px;
@@ -164,19 +165,33 @@ a {
 		transform: rotateY(-60deg) scale(1.6);
 		left: 1044px;
 	}
+	#todays_deals {
+		-webkit-transform: rotateX(-31deg);
+		-moz-transform: rotateX(-31deg);
+		transform: rotateX(-31deg);
+	}
+	#yesterdays_deals {
+		-webkit-transform: rotateX(31deg);
+		-moz-transform: rotateX(31deg);
+		transform: rotateX(31deg);
+	}
 }
-*/
 
-/* 3D Inward
-.wrapper {
+/* 3D Inward */
+.wrapper.in3d {
 	-webkit-perspective: 1600px;
+	-moz-perspective: 1600px;
+	perspective: 1600px;
 	#slider_left_container {
 		-webkit-transform: rotateY(-40deg);
+		-moz-transform: rotateY(-40deg);
+		transform: rotateY(-40deg);
 		right: 794px;
 	}
 	#slider_right_container {
 		-webkit-transform: rotateY(40deg);
+		-moz-transform: rotateY(40deg);
+		transform: rotateY(40deg);
 		left: 794px;
 	}
 }
-*/
