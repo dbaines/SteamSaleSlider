@@ -1,0 +1,94 @@
+{
+	"settings": {
+		"slide_width": 952,
+		"darkslide_width": 794
+	},
+	"slides_today": [
+		{
+			"name": "Prototype",
+			"link": "#",
+			"capsule": "capsules/capsule_01.jpg",
+			"banner": "banner/01.jpg",
+			"banner_dark": "banner_dark/01.jpg"
+		},
+		{
+			"name": "Just Cause 2",
+			"link": "#",
+			"capsule": "capsules/capsule_02.jpg",
+			"banner": "banner/02.jpg",
+			"banner_dark": "banner_dark/02.jpg"
+		},
+		{
+			"name": "Rebellion",
+			"link": "#",
+			"capsule": "capsules/capsule_03.jpg",
+			"banner": "banner/03.jpg",
+			"banner_dark": "banner_dark/03.jpg"
+		},
+		{
+			"name": "Assassins Creed III",
+			"link": "#",
+			"capsule": "capsules/capsule_04.jpg",
+			"banner": "banner/04.jpg",
+			"banner_dark": "banner_dark/04.jpg"
+		},
+		{
+			"name": "Limbo",
+			"link": "#",
+			"capsule": "capsules/capsule_05.jpg",
+			"banner": "banner/05.jpg",
+			"banner_dark": "banner_dark/05.jpg"
+		},
+		{
+			"name": "Castle Crashers",
+			"link": "#",
+			"capsule": "capsules/capsule_06.jpg",
+			"banner": "banner/06.jpg",
+			"banner_dark": "banner_dark/06.jpg"
+		}
+	],
+	"slides_yesterday": [
+		{
+			"name": "LA Noir",
+			"link": "#",
+			"capsule": "capsules/capsule_07.jpg",
+			"banner": "banner/07.jpg",
+			"banner_dark": "banner_dark/07.jpg"
+		},
+		{
+			"name": "Lord of the Rings",
+			"link": "#",
+			"capsule": "capsules/capsule_08.jpg",
+			"banner": "banner/08.jpg",
+			"banner_dark": "banner_dark/08.jpg"
+		},
+		{
+			"name": "Counter-Strike",
+			"link": "#",
+			"capsule": "capsules/capsule_09.jpg",
+			"banner": "banner/09.jpg",
+			"banner_dark": "banner_dark/09.jpg"
+		},
+		{
+			"name": "Worms",
+			"link": "#",
+			"capsule": "capsules/capsule_10.jpg",
+			"banner": "banner/10.jpg",
+			"banner_dark": "banner_dark/10.jpg"
+		},
+		{
+			"name": "FTL",
+			"link": "#",
+			"capsule": "capsules/capsule_11.jpg",
+			"banner": "banner/11.jpg",
+			"banner_dark": "banner_dark/11.jpg"
+		},
+		{
+			"name": "XCOM",
+			"link": "#",
+			"capsule": "capsules/capsule_12.jpg",
+			"banner": "banner/12.jpg",
+			"banner_dark": "banner_dark/12.jpg"
+		}
+	]
+}
