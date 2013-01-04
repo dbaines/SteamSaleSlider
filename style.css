@@ -20,6 +20,10 @@ a {
   .mainhead .right {
     float: right; }
 
+.page {
+  width: 100%;
+  overflow: hidden; }
+
 .wrapper {
   padding-top: 20px;
   width: 975px;
@@ -151,14 +155,6 @@ a {
     -moz-transform: rotateY(-60deg) scale(1.6);
     transform: rotateY(-60deg) scale(1.6);
     left: 1044px; }
-  .wrapper.out3d #todays_deals {
-    -webkit-transform: rotateX(-31deg);
-    -moz-transform: rotateX(-31deg);
-    transform: rotateX(-31deg); }
-  .wrapper.out3d #yesterdays_deals {
-    -webkit-transform: rotateX(31deg);
-    -moz-transform: rotateX(31deg);
-    transform: rotateX(31deg); }
 
 /* 3D Inward */
 .wrapper.in3d {

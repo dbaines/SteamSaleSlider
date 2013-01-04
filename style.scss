@@ -36,6 +36,11 @@ a {
 	}
 }
 
+.page {
+	width: 100%;
+	overflow: hidden;
+}
+
 .wrapper {
 	padding-top: 20px;
 	width: 975px;
@@ -164,16 +169,6 @@ a {
 		-moz-transform: rotateY(-60deg) scale(1.6);
 		transform: rotateY(-60deg) scale(1.6);
 		left: 1044px;
-	}
-	#todays_deals {
-		-webkit-transform: rotateX(-31deg);
-		-moz-transform: rotateX(-31deg);
-		transform: rotateX(-31deg);
-	}
-	#yesterdays_deals {
-		-webkit-transform: rotateX(31deg);
-		-moz-transform: rotateX(31deg);
-		transform: rotateX(31deg);
 	}
 }
 
