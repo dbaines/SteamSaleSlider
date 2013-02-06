@@ -182,7 +182,7 @@ function renderDarkSliderItem(k, deal){
 // Using hoverIntent, adapted by Hernan for .live (usage on appended items)
 // https://raw.github.com/hernan/hoverIntent/master/jquery.hoverIntent.js
 $(".deal_nav .item").hoverIntent({
-	sensativity: 7,
+	sensitivity: 7,
 	interval: 400,
 	over: function(){
 		// get data-num
